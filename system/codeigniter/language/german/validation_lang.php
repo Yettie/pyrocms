@@ -17,7 +17,7 @@ $lang['is_numeric']	   		= "Das Feld %s darf nur Zahlen enthalten.";
 $lang['integer']	   		= "Das Feld %s muss einen ganzzahligen Wert enthalten.";
 $lang['matches']	   		= "Das Feld %s muss mit dem Feld %s &uuml;bereinstimmen.";
 $lang['is_natural']			= "Das Feld %s darf nur positive Zahlen enthalten.";
-$lang['is_natural_no_zero']	= "Das Feld %s darf nur Zahlten grö&szlig;er Null enthalten.";
+$lang['is_natural_no_zero']	= "Das Feld %s darf nur Zahlen gr&ouml;sser Null enthalten.";
 
 
 /* End of file validation_lang.php */
