@@ -14,14 +14,14 @@ $lang['dialog.confirm'] 				= 'Bestätigen';
 $lang['dialog.yes'] 					= 'Ja';
 $lang['dialog.no'] 						= 'Nein';
 
-$lang['select.none'] 					= '-- None --'; #translate
-$lang['select.all'] 					= '-- All --'; #translate
-$lang['select.any'] 					= '-- Any --'; #translate
+$lang['select.none'] 					= '-- Keinen --'; 
+$lang['select.all'] 					= '-- Alle --'; 
+$lang['select.any'] 					= '-- Jeden --';
 
-$lang['operators.equal'] 				= 'Equal to'; #translate
-$lang['operators.not_equal'] 			= 'Not equal to'; #translate
-$lang['operators.less_than'] 			= 'Less than'; #translate
-$lang['operators.greater_than'] 		= 'Greater than'; #translate
+$lang['operators.equal'] 				= 'Gleich'; 
+$lang['operators.not_equal'] 			= 'Ungleich'; 
+$lang['operators.less_than'] 			= 'Kleiner als'; 
+$lang['operators.greater_than'] 		= 'Grösser als'; 
 
 $lang['navigation_headline'] 			= 'Navigation';
 $lang['breadcrumb_base_label'] 			= 'Start';
